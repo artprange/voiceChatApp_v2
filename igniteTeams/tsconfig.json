@@ -19,10 +19,7 @@
       "@storage/*":[
         "./src/storage/*"
       ],
-      "@theme/*":[
-        "./src/theme/*"
-      ],
-      "@utils/*":[
+           "@utils/*":[
         "./src/utils/*"
       ]
     }
