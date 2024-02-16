@@ -1,7 +1,7 @@
 
 import { ThemeProvider } from 'styled-components';
 import {useFonts, Roboto_400Regular, Roboto_700Bold} from '@expo-google-fonts/roboto'
-import { Groups } from '@screens/Groups';
+import { Groups } from "./src/components/screens/Groups";
 import theme from './src/theme'
 import { Loading } from "./src/components/Loading"
 import { StatusBar } from 'react-native';
